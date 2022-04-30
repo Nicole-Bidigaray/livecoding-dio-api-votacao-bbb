@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Recriando a Votação do BBB com Angular e Spring Boot.iml" filepath="$PROJECT_DIR$/.idea/Recriando a Votação do BBB com Angular e Spring Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/votacao-bbb-api/votacao-bbb-api.iml" filepath="$PROJECT_DIR$/votacao-bbb-api/votacao-bbb-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/votacao-bbb-microservico/votacao-bbb-microservico.iml" filepath="$PROJECT_DIR$/votacao-bbb-microservico/votacao-bbb-microservico.iml" />
+    </modules>
+  </component>
+</project>
